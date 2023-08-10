@@ -10,3 +10,6 @@
 3. 
 ![image](https://github.com/Cooper1023/Color/assets/88606843/805d8443-da2e-42d8-8a3b-8d8352fec9a5)
 
+4.
+![image](https://github.com/Cooper1023/Color/assets/88606843/dd5ce2d4-d612-4f45-b27b-0551a4802806)
+
