@@ -14,6 +14,8 @@
 ![image](https://github.com/Cooper1023/Color/assets/88606843/dd5ce2d4-d612-4f45-b27b-0551a4802806)
 
 5. Lollipop
+   
 ![image](https://github.com/Cooper1023/Color/assets/88606843/cb0f6230-3199-4167-9124-e1bd45bb00c8)
+
 https://github.com/SabrinaSun1225/ChromaPalette#readme
 
