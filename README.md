@@ -15,6 +15,8 @@
 5.
 ![image](https://github.com/Cooper1023/Color/assets/88606843/dd5ce2d4-d612-4f45-b27b-0551a4802806)
 
+#4FB27B, #E64A33, #F8C034, #4187F5
+
 6. Lollipop
    
 ![image](https://github.com/Cooper1023/Color/assets/88606843/cb0f6230-3199-4167-9124-e1bd45bb00c8)
