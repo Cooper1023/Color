@@ -28,6 +28,7 @@ https://github.com/SabrinaSun1225/ChromaPalette#readme
 ![image](https://github.com/Cooper1023/Color/assets/88606843/fc85b7d0-bf40-4db1-97d6-63f83509ef41)
 
 9. economist
+    
 ![image](https://github.com/Cooper1023/Color/assets/88606843/e60b09d4-d172-4531-b0e9-0ac89ea82ed3)
 
 R包ggthemes
