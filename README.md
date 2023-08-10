@@ -33,4 +33,8 @@ https://github.com/SabrinaSun1225/ChromaPalette#readme
 
 R包ggthemes
 
-#6794a7, #014d64, #01a2d9, #7ad2f6, #00887d, #76c0c1
+#6794a7, #014d64, #01a2d9
+
+#7ad2f6, #00887d, #76c0c1
+
+#7c260b, #ee8f71, #adadad
