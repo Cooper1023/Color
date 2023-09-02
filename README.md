@@ -23,6 +23,8 @@
 
 https://github.com/SabrinaSun1225/ChromaPalette#readme
 
+#7DABCF, #CFE7EB, #FBC1AD, #F46E49, #FFDF70, #E5E1E0
+
 7.
 ![image](https://github.com/Cooper1023/Color/assets/88606843/d382fa16-3f1c-4adb-bc57-84770fd2ca7b)
 
