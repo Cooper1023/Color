@@ -41,6 +41,13 @@ R包ggthemes
 
 #7ad2f6, #00887d, #76c0c1
 
+10. 
+
+#5578AE, #A1CADE, #AF5264, #F0BDBA
+
+![image](https://github.com/Cooper1023/Color/assets/88606843/d1abbf8a-5d36-4f28-8f46-f10f63716ddf)
+
+
 #7c260b, #ee8f71, #adadad
 
 
