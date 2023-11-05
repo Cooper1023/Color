@@ -50,4 +50,12 @@ R包ggthemes
 
 #5578AE, #A1CADE, #AF5264, #F0BDBA
 
+11.
 
+![image](https://github.com/Cooper1023/Color/assets/88606843/caf68be2-5eb2-49f5-a732-8829579f93af)
+
+#644D43, #D19E94, #94AB83
+
+![image](https://github.com/Cooper1023/Color/assets/88606843/04c5011c-c08a-4947-bc26-e2994d2fa515)
+
+色盘里60度取邻近色，相对来说比较和谐
