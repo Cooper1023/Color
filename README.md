@@ -56,6 +56,10 @@ R包ggthemes
 
 #644D43, #D19E94, #94AB83
 
+12.
+![image](https://github.com/Cooper1023/Color/assets/88606843/10e75a5c-9b38-4272-b0a9-cd63446ddc59)
+#F7AEB2, #A2C5E8, #A2C5E8, #A8D999, #A8D999
+
 ![image](https://github.com/Cooper1023/Color/assets/88606843/04c5011c-c08a-4947-bc26-e2994d2fa515)
 
 色盘里60度取邻近色，相对来说比较和谐
