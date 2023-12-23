@@ -66,6 +66,30 @@ R包ggthemes
 
 #F9C499, #92CDDC, #CCC2D9, #C4D6A0
 
+14.
+![image](https://github.com/Cooper1023/Color/assets/88606843/b14081eb-f5ff-4a54-b0e0-4cb41004fb04)
+
+#62B197, #E18E6D
+
+15.
+![image](https://github.com/Cooper1023/Color/assets/88606843/053041cd-22fb-4c9a-8f60-ff73cad8a30e)
+
+#97C8AF, #96B6D8
+
+16.
+![image](https://github.com/Cooper1023/Color/assets/88606843/5ac3efb2-4573-44ec-aace-26bfb622c879)
+
+#8FC9E2, #ECC97F
+
+17.
+![image](https://github.com/Cooper1023/Color/assets/88606843/a171e4ef-555a-4eeb-89fd-f91677b9e441)
+
+#9392BE, #D0E7ED, #D5E4A8
+
+
+
+
+
 ![image](https://github.com/Cooper1023/Color/assets/88606843/04c5011c-c08a-4947-bc26-e2994d2fa515)
 
 色盘里60度取邻近色，相对来说比较和谐
