@@ -90,6 +90,10 @@ R包ggthemes
 ![image](https://github.com/Cooper1023/Color/assets/88606843/cd16462a-c9db-4fb9-97ff-b7d75362c0f6)
 #1567A0, #AB3A29, #D17F2B, #1A7B4A, #6E6DA2, #FF6890A2
 
+19.
+![image](https://github.com/Cooper1023/Color/assets/88606843/af9d61c0-0c37-4987-b068-648b4845712a)
+#EAECB5, #D4C5F6, #CBE0BC, #F5D2BA
+
 
 
 ![image](https://github.com/Cooper1023/Color/assets/88606843/04c5011c-c08a-4947-bc26-e2994d2fa515)
